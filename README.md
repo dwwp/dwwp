@@ -21,7 +21,7 @@
 
 ### - Hobbies : 
 - ✨ Gaming Addict
-- ✨ Watching Anime
+- ✨ Watching Movie
 - ✨ Reading Light Novels
 - ✨ Football (Neighbourhood Professional XD)
 
