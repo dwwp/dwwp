@@ -1,7 +1,7 @@
 # Hello friends! 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/27/de/41/27de41b89efe997ca5b7f689ceb22986.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/ea/12/d5/ea12d5dcee08a049e53f6961ece2fe14.gif">
 </div>
 
 </br>
