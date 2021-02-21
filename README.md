@@ -1,4 +1,4 @@
-# Konichiwa 👋
+# Hello friends! 👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/27/de/41/27de41b89efe997ca5b7f689ceb22986.gif">
@@ -11,9 +11,9 @@
 
 # About ME 💬 :
 
-### - I'm 18 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 18 years  old Machine Learning & Artificial Intelligence Enthusiast from Singapore.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://data.whicdn.com/images/321441286/original.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
@@ -56,7 +56,7 @@
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=dwwp&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
