@@ -23,7 +23,7 @@
 - ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Football (Neighbourhood Professional XD)
 
 </br>
 </br>
